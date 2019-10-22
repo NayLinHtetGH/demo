@@ -1,0 +1,172 @@
+{
+
+    "status": "ok",
+    "totalResults": 62,
+    -
+    "articles": [
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Krebsonsecurity.com"
+            },
+            "author": null,
+            "title": "Avast, NordVPN Breaches Tied to Phantom User Accounts - Krebs on Security",
+            "description": null,
+            "url": "https://krebsonsecurity.com/2019/10/avast-nordvpn-breaches-tied-to-phantom-user-accounts/",
+            "urlToImage": null,
+            "publishedAt": "2019-10-22T00:34:47Z",
+            "content": "Antivirus and security giant Avast and virtual private networking (VPN) software provider NordVPN each today disclosed months-long network intrusions that — while otherwise unrelated — shared a common cause: Forgotten or unknown user accounts that granted rem… [+7220 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tom Simonite",
+            "title": "IBM Says Google’s Quantum Leap Was a Quantum Flop - WIRED",
+            "description": "A paper from Google leaked last month claimed its researchers had achieved “quantum supremacy.” Now IBM says Google rigged the test.",
+            "url": "https://www.wired.com/story/ibm-googles-quantum-leap-quantum-flop/",
+            "urlToImage": "https://media.wired.com/photos/5dae094a0aa0150008816c62/master/w_2560,c_limit/Biz-IBMQLAB_computecenter%2520(3).jpg",
+            "publishedAt": "2019-10-22T00:01:00Z",
+            "content": "Technical quarrels between quantum computing experts rarely escape the fields rarified community. Late Monday, though, IBMs quantum team picked a highly public fight with Google.\r\nIn a technical paper and blog post, IBM took aim at potentially history-making … [+3762 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "2 crew members, passenger overcome by fumes on flight - ABC News",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/watch?v=3LegjyRYOnQ",
+            "urlToImage": null,
+            "publishedAt": "2019-10-21T23:59:04Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Alex Sherman",
+            "title": "JP Morgan is at risk of losing big on its WeWork bet, a major potential blow to CEO Jamie Dimon - CNBC",
+            "description": "JP Morgan's investments in WeWork are at risk, and the bank is losing out on many millions of dollars in fees that would've come from leading the IPO.",
+            "url": "https://www.cnbc.com/2019/10/21/jp-morgan-is-at-risk-of-losing-on-its-wework-bet-a-blow-to-ceo-dimon.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106148480-1569425526605gettyimages-1171027604.jpg?v=1571137824",
+            "publishedAt": "2019-10-21T23:43:05Z",
+            "content": "WeWork but WeDon'tGetPaid.\r\nThat's the grim reality J.P. Morgan Chase bankers are facing now that WeWork is close to accepting a deal to sell control of the office-sharing company to SoftBank in a debt and equity package.\r\nJ.P. Morgan is WeWork's third-larges… [+2486 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "Vanessa Romo",
+            "title": "Lawmakers Want Tech In New Cars To Automatically Prevent Drunk Driving - NPR",
+            "description": "All new autos would be outfitted with alcohol detection technology, under legislation being proposed by U.S. lawmakers. That would make it impossible to drive if you're over the limit.",
+            "url": "https://www.npr.org/2019/10/21/772004296/a-push-to-have-cars-say-no-to-drunk-drivers",
+            "urlToImage": "https://media.npr.org/assets/img/2019/10/21/dadss_still5_v2_wide-482a0cd84b471b27d09efefaa105240cc93570dd.jpg?s=1400",
+            "publishedAt": "2019-10-21T23:20:00Z",
+            "content": "The Driver Alcohol Detection System for Safety Program, funded largely by the federal government, seeks to develop devices that will automatically detect when a driver is intoxicated with a blood-alcohol concentration over the legal limit.\r\nCourtesy of Driver… [+4852 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Exxon accused of misleading investors on climate change - BBC News",
+            "description": "New York State and the oil giant will now face each other in court in New York over the claim.",
+            "url": "https://www.bbc.com/news/business-50132400",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/111D6/production/_109320107_tarsands.jpg",
+            "publishedAt": "2019-10-21T23:06:27Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Exxon is accused of misleading investors about the potential cost of financial regulation\r\nAn unprecedented climate change lawsuit against American oil giant Exxon Mobil is set to go ahead in New York.\r\nThe state has… [+2978 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tom Costello",
+            "title": "Doing the 'Macarena' at 2 a.m. on Qantas' record-breaking 19-hour flight - NBCNews.com",
+            "description": "NBC NEWS was the only U.S. broadcast team on board a record-breaking Qantas Airways research flight, flying nonstop from New York’s JFK Airport to Sydney.",
+            "url": "https://www.nbcnews.com/business/travel/doing-macarena-2-m-quantas-record-breaking-19-hour-flight-n1069746",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_43/3062461/191021-qantas-new-york-sydney-flight-ew-549p_26d800962b0a6f262b3010a322fb9bde.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2019-10-21T22:57:00Z",
+            "content": "I never thought Id be doing the Macarena at 2 a.m. at 35,000 feet, but when researchers from the University of Sydney suggested it was the best way to keep jet lag at bay, I joined in.\r\nNBC NEWS was the only U.S. broadcast team on board a record-breaking Qant… [+2639 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Patricia Sullivan",
+            "title": "Dunbar High students may not know Jeff Bezos when he visits, but they know code - The Washington Post",
+            "description": "The Amazon chief executive dropped by a Washington school to promote the company’s computer science education grants.",
+            "url": "https://www.washingtonpost.com/local/dc-politics/jeff-bezos-visited-a-high-school-class-the-students-werent-sure-who-he-was/2019/10/21/1a83b8e8-f413-11e9-a285-882a8e386a96_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/fwbH8u0hJoieplTtdD8Vam6xHnQ=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DVV3U2HUD4I6TMWSD434TWBNXM.jpg",
+            "publishedAt": "2019-10-21T22:34:00Z",
+            "content": "I want to be an actress, said the red-haired student, who nevertheless successfully applied for a seat in the class. This gives me some opportunities that I still have to think about.\r\nAmazon is funding computer science classes in more than 2,000 high schools… [+5024 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "Harvard researchers grew meat in a lab from cow and rabbit cells. It looks a lot like the real thing - CNN",
+            "description": "The team was the first to engineer meat using an edible gelatin base, which helps the lab-grown meat mimic the taste and texture of natural meat.",
+            "url": "https://www.cnn.com/2019/10/21/us/harvard-lab-grown-meat-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190814170918-vital-signs-science-petri-dish-meat-00012408-super-tease.jpg",
+            "publishedAt": "2019-10-21T21:14:00Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": null,
+            "title": "Nordstrom Bets On A Big Store In New York Amid Retail Slowdown - NPR",
+            "description": "The luxury department store chain is opening a 320,000- square-foot store in Manhattan as retailers such as Barneys and Forever 21 file for bankruptcy and more competition comes from online brands.",
+            "url": "https://www.npr.org/2019/10/21/772010523/nordstrom-bets-on-a-big-nyc-store-as-other-retailers-close-across-u-s",
+            "urlToImage": "https://media.npr.org/assets/img/2019/10/21/1_9_wide-3d864b7474457a3148295220f6f4a5d748418dc2.jpg?s=1400",
+            "publishedAt": "2019-10-21T21:09:00Z",
+            "content": "Nordstrom's new flagship store opens Thursday on 57th Street and Broadway in New York City. The store has seven floors of products and services alongside in-store restaurants and bars.\r\nPeter Talbot/NPR\r\nIn one corner of Nordstrom's new flagship store in New … [+4752 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Nypost.com"
+            },
+            "author": "Tamar Lapin",
+            "title": "Growers say this new apple will be better than the Honeycrisp - New York Post ",
+            "description": "This new apple is supposedly out of this world. A new variety called the Cosmic Crisp will be available for picking at grocery stores beginning Dec. 1 — and growers say it will be better than…",
+            "url": "https://nypost.com/2019/10/21/growers-say-this-new-apple-will-be-better-than-the-honeycrisp/",
+            "urlToImage": "https://thenypost.files.wordpress.com/2019/10/cosmic-crisp-40.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2019-10-21T21:09:00Z",
+            "content": "This new apple is supposedly out of this world.\r\nA new variety called the Cosmic Crisp will be available for picking at grocery stores beginning Dec. 1 — and growers say it will be better than the Honeycrisp.\r\nNamed for the bright yellow dots on its skin — wh… [+898 chars]"
+        }
+        }
